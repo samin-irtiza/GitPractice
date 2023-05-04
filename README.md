@@ -1,1 +1,4 @@
-This is a repo for practicing GIT 
+# This is a repo for practicing GIT 
+
+## Git Basics
+
